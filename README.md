@@ -1,6 +1,8 @@
 # flutter_for_nasa
 
-A new Flutter project.
+A flutter desktop/webapp for navigating the nasa exoplanets archive.  
+Built following a MVVM archtiecture with Mobx for state management.   
+![home](home.PNG)
 
 ## Getting Started
 
